@@ -1,0 +1,7 @@
+# UNDEROOZ STUDIO
+> Cinematic production and digital marketing studio. Tagline: Shoot. Edit. Elevate.
+## Services
+- Advertisement & Shoots: commercial ads, product photography, brand films, promotional/corporate videos, reels & social content
+- Digital Marketing: social media, creative design, content creation, branding, digital advertising
+## Pages
+- /about, /services, /projects, /blogs, /contact
